@@ -1,0 +1,33 @@
+
+body {background-color: rgb(86, 173, 213);}
+
+
+.header {
+    text-align: center;
+    color: darkblue;
+}
+
+p{
+    color: aliceblue;
+}
+h3{
+    color:rgb(6, 58, 204) ;
+}
+div{
+    border:  solid rgb(18, 235, 18);
+    width: 500px;
+    margin-bottom: 20px;
+    margin-left: auto; margin-right: auto;
+    padding: 15px ;
+    padding-left: 30px;
+
+}
+a{
+    margin: 10px;
+    border: 2px solid black;
+    padding: 5px;
+    background-color: aquamarine;
+}
+img{
+    border: 2px solid rgb(255, 255, 255);
+}
