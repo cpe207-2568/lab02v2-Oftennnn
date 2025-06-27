@@ -31,3 +31,23 @@ a{
 img{
     border: 2px solid rgb(255, 255, 255);
 }
+
+
+.noto{
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <100>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+.notothai {
+  font-family: "Noto Sans Thai", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <100>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
